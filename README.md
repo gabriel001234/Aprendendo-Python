@@ -2,4 +2,4 @@
 
 Repositório para registrar meu aprendizado de Python.
 
-Utilizo notebook do Jupyter.
+Utilizo notebooks do Jupyter.
